@@ -1,8 +1,8 @@
 "# Devops" 
 
-My journey into devops
+My journey into devops/mlops
+------------
 
-Devops/
 ├── .gitignore
 ├── README.md
 └── calculator.py
