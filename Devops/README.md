@@ -1,6 +1,6 @@
 "# Devops" 
 
-My journey into devops/mlops
+Toy problem to start your journey into devops/mlops
 ------------
     ├── .gitignore
     ├── README.md          <- README
