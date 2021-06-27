@@ -1,4 +1,4 @@
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vvrahul11/blog_posts_code)  [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://biolactosil.medium.com/) [![RSS Reader](https://img.shields.io/badge/RSS%20Feed%20-Add%20to%20your%20RSS%20Reader-yellowgreend?logo=feedly)](https://medium.com/feed/@biolactosil) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vvrahul11/blog_posts_code)  [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://biolactosil.medium.com/) 
 
 
 # [Collection of blog posts by me on medium](https://github.com/vvrahul11/blog_posts_code)
