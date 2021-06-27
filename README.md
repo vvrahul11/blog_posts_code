@@ -26,5 +26,6 @@ This repository hosts the code and articles from my blog post on [Medium blog](h
 | Hands-on CI/CD Bitbucket pipeline for data scientists | [link](https://biolactosil.medium.com/hands-on-ci-cd-bitbucket-pipeline-for-data-scientists-edda130a0949) | [link]() |
 
 # Lessons learned
+
 | How to build a positive organizational company culture for AI service companies? | [link](https://biolactosil.medium.com/how-to-build-a-positive-organizational-company-culture-for-ai-service-companies-ceace7d28da7) |
 | Developing an awesome personality | [link](https://biolactosil.medium.com/developing-an-awesome-personality-de0dcd813fa) |
