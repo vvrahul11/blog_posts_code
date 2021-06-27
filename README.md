@@ -1,7 +1,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vvrahul11/blog_posts_code)  [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://biolactosil.medium.com/) 
 
 
-# [Collection of blog posts by me on medium](https://github.com/vvrahul11/blog_posts_code)
+# [My articles and code on medium](https://github.com/vvrahul11/blog_posts_code)
 
 This repository hosts the code and articles from my blog post on [Medium blog](https://biolactosil.medium.com/). 
 
