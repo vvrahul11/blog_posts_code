@@ -3,7 +3,6 @@
 My journey into devops
 
 Devops/
-|
 ├── .gitignore
 ├── README.md
 └── calculator.py
