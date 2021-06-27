@@ -8,7 +8,7 @@ require(ggrepel)
 require(gganimate)
 
 #Read the data from a CSV file into a dataframe
-df1 <-  read.csv("C:/RahulGit/anomaly_detection_fbprophet_matrixprofile/data/mpf-datasets-master/real/mfcc_vanilla_ice.csv")
+df1 <-  read.csv("data/mfcc_vanilla_ice.csv")
 df1$Time = 1:nrow(df1)
 df1 <- df1[, c(2, 1)]
 colnames(df1) = c("Time", "Value")
