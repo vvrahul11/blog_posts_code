@@ -9,7 +9,7 @@ This repository hosts the code and articles from my blog post on [Medium blog](h
 
 | Title        | Medium article           | Repository  |
 | ------------- |:-------------:| :-----:|
-| How to load and visualize time series data? | [link](https://biolactosil.medium.com/how-to-load-and-visualize-time-series-data-5d72cbf47901) | [link](https://github.com/vvrahul11/blog_posts_code/blob/main/timeseries/loading_preprocessing/loading_timeseries_data.ipynb) |
+| How to load and visualize time series data? | [link](https://biolactosil.medium.com/how-to-load-and-visualize-time-series-data-5d72cbf47901) | [link](https://github.com/vvrahul11/blog_posts_code/blob/main/timeseries/loading_preprocessing/) |
 
 
 # Problem solving
