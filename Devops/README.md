@@ -2,13 +2,11 @@
 
 My journey into devops/mlops
 ------------
-
-├── .gitignore
-├── README.md
-└── calculator.py
-├── requirements.txt
-└── test_calculator.py
-
+    ├── .gitignore
+    ├── README.md          <- README
+    ├── calculator.py   <- calculator code
+    ├── requirements.txt    <- requirements
+    ├── test_calculator.py  <- tests
 
 # Run calculator
 python calculator.py
