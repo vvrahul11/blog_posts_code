@@ -9,7 +9,7 @@ This repository hosts the code and articles from my blog post on [Medium blog](h
 
 | Title        | Medium article           | Repository  |
 | ------------- |:-------------:| :-----:|
-| How to load and visualize time series data? | [link](https://biolactosil.medium.com/how-to-load-and-visualize-time-series-data-5d72cbf47901) | [link]() |
+| How to load and visualize time series data? | [link](https://biolactosil.medium.com/how-to-load-and-visualize-time-series-data-5d72cbf47901) | [link](https://github.com/vvrahul11/blog_posts_code/blob/main/timeseries/loading_preprocessing/loading_timeseries_data.ipynb) |
 
 
 # Problem solving
@@ -23,7 +23,7 @@ This repository hosts the code and articles from my blog post on [Medium blog](h
 
 | Title        | Medium article           | Repository  |
 | ------------- |:-------------:| :-----:|
-| Hands-on CI/CD Bitbucket pipeline for data scientists | [link](https://biolactosil.medium.com/hands-on-ci-cd-bitbucket-pipeline-for-data-scientists-edda130a0949) | [link]() |
+| Hands-on CI/CD Bitbucket pipeline for data scientists | [link](https://biolactosil.medium.com/hands-on-ci-cd-bitbucket-pipeline-for-data-scientists-edda130a0949) | [link](https://github.com/vvrahul11/blog_posts_code/tree/main/Devops) |
 
 
 # Lessons learned
