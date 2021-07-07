@@ -1,6 +1,6 @@
 # README #
 
-This repo contains the source code for running mlfow beginners code (https://biolactosil.medium.com/).
+This repo contains the source code for running mlfow beginners code (https://biolactosil.medium.com/hands-on-introduction-to-mlflow-with-a-toy-bmi-example-9c6ff11a6f3f).
 
 ## Getting started ##
 
