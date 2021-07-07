@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RahulGit/blog_posts_code/mlflow_beginner/mlruns/0/91c9bfb538df4a74bd1da73332ee55dd/artifacts
+end_time: 1625440527353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 91c9bfb538df4a74bd1da73332ee55dd
+run_uuid: 91c9bfb538df4a74bd1da73332ee55dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1625440527293
+status: 3
+tags: []
+user_id: Rahul
