@@ -24,6 +24,7 @@ This repository hosts the code and articles from my blog post on [Medium blog](h
 | Title        | Medium article           | Repository  |
 | ------------- |:-------------:| :-----:|
 | Hands-on CI/CD Bitbucket pipeline for data scientists | [link](https://biolactosil.medium.com/hands-on-ci-cd-bitbucket-pipeline-for-data-scientists-edda130a0949) | [link](https://github.com/vvrahul11/blog_posts_code/tree/main/Devops) |
+| Hands-on introduction to mlflow with a toy BMI example | [link](https://biolactosil.medium.com/) | [link](https://github.com/vvrahul11/blog_posts_code/tree/main/mlflow_beginner) |
 
 
 # Lessons learned
