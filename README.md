@@ -32,3 +32,7 @@ This repository hosts the code and articles from my blog post on [Medium blog](h
 | ------------- |:-------------:| :-----:|
 | How to build a positive organizational company culture for AI service companies? | [link](https://biolactosil.medium.com/how-to-build-a-positive-organizational-company-culture-for-ai-service-companies-ceace7d28da7) |
 | Developing an awesome personality | [link](https://biolactosil.medium.com/developing-an-awesome-personality-de0dcd813fa) |
+
+
+# Thank you
+My inspiration to write blogs started by following the blog posts of Khuyen Tran. Thank you for your work and the posts. 
